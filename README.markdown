@@ -8,7 +8,7 @@ Twython supports OAuth authentication with Twitter now, and this is a sample Dja
 people up and running (fairly) instantly with Twitter OAuth in Django. Enjoy.
 
 
-Requirements
+Requirements 
 -----------------------------------------------------------------------------------------------------
 Django - pretty self explanatory. http://djangoproject.com/
 
